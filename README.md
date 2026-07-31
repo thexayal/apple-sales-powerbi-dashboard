@@ -7,7 +7,7 @@ Apple məhsullarının (iPhone, Mac, iPad, Wearables) region və kateqoriya üzr
 ### 1. Xəritə Analizi
 Region üzrə ümumi gəlirin dünya xəritəsində vizuallaşdırılması, slicerlər (İl, Ay, Kateqoriya, Məhsul, Region).
 
-![Xəritə Analizi](Ekran%20Resmi%202026-08-01%2001.05.37.png)
+![Xəritə Analizi](Ekran%20Resmi%202026-08-01%2001.05.05.png)
 
 ### 2. Satış Analizi
 Region və kateqoriya üzrə ümumi gəlir, ötən ilə/aya görə artım faizləri, şəhərlər üzrə gəlir paylanması, top 3 region, aylıq gəlir və YoY% trendi.
@@ -17,7 +17,7 @@ Region və kateqoriya üzrə ümumi gəlir, ötən ilə/aya görə artım faizl�
 ### 3. Məhsul Analizi
 Kateqoriya üzrə son tarix gəliri, iPhone modelləri üzrə gəlir müqayisəsi, məhsul üzrə gəlir payı, Apple Watch-un 2020-2025 satış trendi.
 
-![Məhsul Analizi](Ekran%20Resmi%202026-08-01%2001.05.05.png)
+![Məhsul Analizi](Ekran%20Resmi%202026-08-01%2001.05.37.png)
 
 ## İstifadə olunan texnikalar
 - Power Query ilə Excel mənbəyindən data çəkilməsi və təmizlənməsi
